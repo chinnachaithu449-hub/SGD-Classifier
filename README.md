@@ -8,6 +8,7 @@ To write a program to predict the type of species of the Iris flower using the S
 
 ## Algorithm
 1.Load the required Python libraries and read the dataset from the CSV file.
+
 2.Separate the dataset into input features (X) and target output (y), and apply one-hot encoding to handle categorical variables.
 
 3.Split the dataset into training and testing sets using an appropriate train–test ratio.
